@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bla",
+				"black"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"b",
+				"blau"
+			],
+			[
+				"m",
+				"morat"
+			],
+			[
+				"ca",
+				"cyan"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"pull",
+				"pull-1"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"fot",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p8/sitioweb/index_polaroid.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/P9/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p8/sitioweb/css/style_grid.css",
+		"/E/index_img.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p8/sitioweb/index_sections.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p7/index_be.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p8/sitioweb/css/style_grid.sublime-project",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p7/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p6/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p5/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p4/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p4/index_2.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p4/prova_fonts.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p4/prova_images.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p3/prova.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p3/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p4/prova fonts.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p4/prova.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p3/images/img4.png",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p3/images/img3.png",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p3/images/img2.png",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p3/images/img1.png",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p3 id first-child  nth-child(2)/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p1/pages/pag1.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p2/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p1/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p1/css/style.css",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p1/pages/pag3.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p1/pages/pag2.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p0/index.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p0/pages/pag3.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p0/pages/pag2.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p0/pages/pag1.html",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p0/images/index_Mesa de trabajo 1.svg",
+		"/C/Users/Judit/Documents/2on de disseny gràfic/Informàtica/HTML/Sublime/p0/images/index.svg",
+		"/C/Users/Judit/Documents/Sublime/P. 0/Index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 45.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style_grid.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
